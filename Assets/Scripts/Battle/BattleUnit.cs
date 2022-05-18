@@ -57,7 +57,7 @@ public class BattleUnit : MonoBehaviour
     }
     
     // ¹¥»÷¶¯»­
-    public void PlayerAttackAnimation()
+    public void PlayAttackAnimation()
     {
         var sequence = DOTween.Sequence();
         if (isPlayerUnit)

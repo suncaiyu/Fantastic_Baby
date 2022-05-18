@@ -10,24 +10,24 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 381633a133d2ab144a8847c1053dca8a, type: 3}
-  m_Name: Butterfree
+  m_Name: Pidgey
   m_EditorClassIdentifier: 
-  name: "\u5DF4\u5927\u8776"
+  name: "\u6CE2\u6CE2"
   description: 
-  fontSprite: {fileID: 21300000, guid: 166d78a8b6b7849458390072a449bc33, type: 3}
-  baskSprite: {fileID: 21300000, guid: 74d51ec37f6956b47b540a8f90815eff, type: 3}
-  type1: 12
+  fontSprite: {fileID: 21300000, guid: 8431121343f44b643980a3af1d7eee61, type: 3}
+  baskSprite: {fileID: 21300000, guid: caa4fbfb7a4a4134db2d550e2c9349b6, type: 3}
+  type1: 1
   type2: 10
-  maxHp: 60
+  maxHp: 40
   attack: 45
-  defense: 50
-  spAttack: 90
-  spDefense: 80
-  speed: 70
+  defense: 40
+  spAttack: 35
+  spDefense: 35
+  speed: 56
   learnableMoves:
   - moveBase: {fileID: 11400000, guid: 07152e2a6b4dc9049be6562356dccfda, type: 2}
     level: 1
-  - moveBase: {fileID: 11400000, guid: 481d072afbdfeb440a88b3f5f706cda2, type: 2}
-    level: 10
-  - moveBase: {fileID: 11400000, guid: 2e73b29f18dc8fb4fa889fa3f5d5dabf, type: 2}
-    level: 18
+  - moveBase: {fileID: 11400000, guid: 9db1e8a0ca1ffe0428e012361e89631a, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: e1dd2c921acde9b4eafc34befc3dac78, type: 2}
+    level: 1

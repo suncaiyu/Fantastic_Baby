@@ -10,20 +10,16 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: b131337a922f042408a92ded9d509565, type: 3}
-  m_Name: Tackle
+  m_Name: Sing
   m_EditorClassIdentifier: 
-  name: "\u649E\u51FB"
-  description: "\u900F\u4F60\u5988"
+  name: "\u5531\u6B4C"
+  description: 
   type: 1
-  power: 40
-  pp: 1
-  priority: 0
-  accuracy: 100
-  alwaysHit: 0
-  category: 0
+  power: 0
+  pp: 15
+  accuracy: 55
+  category: 2
   effects:
     boosts: []
-    status: 0
-    volatileStatus: 0
-  secondaries: []
+    status: 3
   target: 0
